@@ -1,0 +1,522 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"8ba030db-b2ff-93e4-9963-988cde25fbda\" id=\"id31b30ddf-70a1-4f83-7804-617e19e3c4f1\" data-type=\"term\">system</span></p>",
+        "position": {
+          "x": 603.2785415649414,
+          "y": 17.6875
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "86cdea72-0cec-4152-b9e1-de75dd784e4e",
+        "z": 1,
+        "objectID": "c46121d2-585b-de31-c591-74641639e08e",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 122.99999999999972,
+          "y": 31.0000000000003
+        },
+        "size": {
+          "width": 284,
+          "height": 192
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"055ac470-d11c-381c-d303-cfe59d2e9832\" id=\"id92544689-faf8-4033-b657-dd4681bed27a\" data-type=\"term\">messaging system</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "52c546b9-856a-4c06-9939-d10cb601b1a8",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 227.684814453125,
+          "fullString": "MESSAGING SYSTEM",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MESSAGING SYSTEM",
+              "width": 125.86381530761719,
+              "x": 50.910499572753906,
+              "y": 25.869366015625
+            }
+          ],
+          "textWidth": 125.86381530761719,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7ab8615c-8eec-17ae-27bb-3cde324a9ca5",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 622,
+          "y": 233
+        },
+        "size": {
+          "width": 182.62193624505593,
+          "height": 114.06669834864692
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"055ac470-d11c-381c-d303-cfe59d2e9832\" id=\"id6b788b32-f00f-caf7-df2e-fc2fe3d4b8a8\" data-type=\"term\">messaging system</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "f3f1bb5a-8243-4e37-a0b6-517b17b97096",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 146.2898712158203,
+          "fullString": "MESSAGING SYSTEM 204",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MESSAGING SYSTEM",
+              "width": 125.86381530761719,
+              "x": 10.213027954101562,
+              "y": 0.5768572601318382
+            },
+            {
+              "text": "204",
+              "width": 22.386520385742188,
+              "x": 61.95167541503906,
+              "y": 21.576894760131836
+            }
+          ],
+          "textWidth": 125.86381530761719,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "f16ca212-1717-42a1-c166-2786dfad981b",
+        "number": 4
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "52c546b9-856a-4c06-9939-d10cb601b1a8"
+        },
+        "target": {
+          "id": "f3f1bb5a-8243-4e37-a0b6-517b17b97096"
+        },
+        "id": "bffa00e2-6e4a-4a7a-9344-e118797ef2cd",
+        "embeds": "",
+        "z": 4,
+        "routing": "curved",
+        "objectID": "05acb795-2e14-81d6-325d-95a3ade67cf9"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "hexagon",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 304,
+          "y": 293
+        },
+        "size": {
+          "width": 143.08137116695218,
+          "height": 119.23447597246015
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"c8938dc9-0ca8-0392-3ac9-47c1607b7c26\" id=\"id63efbcee-363a-d82a-6303-23fd237933ff\" data-type=\"term\">messaging system gateway</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position11",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "76c6ca7e-ff7a-47ef-8683-a2492c885096",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 90.46942138671875,
+          "fullString": "MESSAGING SYSTEM GATEWAY",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MESSAGING",
+              "width": 74.99530029296875,
+              "x": 7.737060546875,
+              "y": 11.54103185424805
+            },
+            {
+              "text": "SYSTEM",
+              "width": 47.36065673828125,
+              "x": 21.55438232421875,
+              "y": 32.54106935424805
+            },
+            {
+              "text": "GATEWAY",
+              "width": 54.057464599609375,
+              "x": 18.205978393554688,
+              "y": 53.54110685424804
+            }
+          ],
+          "textWidth": 74.99530029296875,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "ad094712-329a-d3a3-c19a-c056022bcabd",
+        "number": 6
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "76c6ca7e-ff7a-47ef-8683-a2492c885096"
+        },
+        "target": {
+          "id": "52c546b9-856a-4c06-9939-d10cb601b1a8"
+        },
+        "id": "11d5226b-d5e9-4bcf-b7ba-0187f48dcf1f",
+        "embeds": "",
+        "z": 6,
+        "routing": "curved",
+        "objectID": "6d01359c-e11d-45a2-5c7b-28271fe3c783"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "hexagon",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 60,
+          "y": 292
+        },
+        "size": {
+          "width": 143.08137116695218,
+          "height": 119.23447597246015
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"ac13e969-935e-a016-69b8-b5d24c24cf34\" id=\"id8602fdd3-8413-dbe4-5eaa-cda482aafeb0\" data-type=\"term\">messaging system interface</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position11",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "3ca9a203-dd42-3c35-3aca-77ff0f0d5d9c",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 90.61917114257812,
+          "fullString": "MESSAGING SYSTEM INTERFACE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MESSAGING",
+              "width": 74.99530029296875,
+              "x": 7.8119354248046875,
+              "y": 11.626614587402347
+            },
+            {
+              "text": "SYSTEM",
+              "width": 47.36065673828125,
+              "x": 21.629257202148438,
+              "y": 32.62665208740235
+            },
+            {
+              "text": "INTERFACE",
+              "width": 63.64256286621094,
+              "x": 13.488304138183594,
+              "y": 53.62668958740234
+            }
+          ],
+          "textWidth": 74.99530029296875,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "494e24b6-a0ef-efeb-c9cf-2efb3a3f8544",
+        "number": 8
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "3ca9a203-dd42-3c35-3aca-77ff0f0d5d9c"
+        },
+        "target": {
+          "id": "52c546b9-856a-4c06-9939-d10cb601b1a8"
+        },
+        "id": "43a1ce40-2cd8-4c90-870d-fc36857f6b2c",
+        "embeds": "",
+        "z": 7,
+        "routing": "curved",
+        "objectID": "ef6adfb0-91d1-e522-7fa5-f291429b0093"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "hexagon",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 282,
+          "y": 469
+        },
+        "size": {
+          "width": 143.08137116695218,
+          "height": 119.23447597246015
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"ac13e969-935e-a016-69b8-b5d24c24cf34\" id=\"id8602fdd3-8413-dbe4-5eaa-cda482aafeb0\" data-type=\"term\">messaging system interface</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "d531f770-93cb-4a0a-7741-21a49b22fee1",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 90.61917114257812,
+          "fullString": "MESSAGING SYSTEM INTERFACE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MESSAGING",
+              "width": 74.99530029296875,
+              "x": 7.8119354248046875,
+              "y": 11.626614587402347
+            },
+            {
+              "text": "SYSTEM",
+              "width": 47.36065673828125,
+              "x": 21.629257202148438,
+              "y": 32.62665208740235
+            },
+            {
+              "text": "INTERFACE",
+              "width": 63.64256286621094,
+              "x": 13.488304138183594,
+              "y": 53.62668958740234
+            }
+          ],
+          "textWidth": 74.99530029296875,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "17e44f9a-f27c-57f5-f2fd-c19d71c6141c",
+        "number": 10
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "3ca9a203-dd42-3c35-3aca-77ff0f0d5d9c"
+        },
+        "target": {
+          "id": "d531f770-93cb-4a0a-7741-21a49b22fee1"
+        },
+        "id": "e428c039-c8fc-47a5-ac0c-d1727b9ab1b9",
+        "embeds": "",
+        "z": 8,
+        "routing": "curved",
+        "objectID": "90d8e38a-b2b9-7a72-44b3-e4a56d8658ac"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "hexagon",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 504,
+          "y": 382
+        },
+        "size": {
+          "width": 143.08137116695218,
+          "height": 119.23447597246015
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"ac13e969-935e-a016-69b8-b5d24c24cf34\" id=\"id8602fdd3-8413-dbe4-5eaa-cda482aafeb0\" data-type=\"term\">messaging system interface</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position12",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "a77ea29c-34a9-b3da-0fe4-c1b3d1a375a0",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 90.61917114257812,
+          "fullString": "MESSAGING SYSTEM INTERFACE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MESSAGING",
+              "width": 74.99530029296875,
+              "x": 7.8119354248046875,
+              "y": 11.626614587402347
+            },
+            {
+              "text": "SYSTEM",
+              "width": 47.36065673828125,
+              "x": 21.629257202148438,
+              "y": 32.62665208740235
+            },
+            {
+              "text": "INTERFACE",
+              "width": 63.64256286621094,
+              "x": 13.488304138183594,
+              "y": 53.62668958740234
+            }
+          ],
+          "textWidth": 74.99530029296875,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "2bd07665-9cc4-4b8e-15e8-0123445b5af4",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "76c6ca7e-ff7a-47ef-8683-a2492c885096"
+        },
+        "target": {
+          "id": "a77ea29c-34a9-b3da-0fe4-c1b3d1a375a0"
+        },
+        "id": "9631ba07-2609-4333-91ee-8baea2e339c2",
+        "embeds": "",
+        "z": 9,
+        "routing": "curved",
+        "objectID": "ee895786-db9c-e4f5-6bc5-24a4b1276e7b"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "hexagon",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 700,
+          "y": 389
+        },
+        "size": {
+          "width": 143.08137116695218,
+          "height": 119.23447597246015
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"ac13e969-935e-a016-69b8-b5d24c24cf34\" id=\"id8602fdd3-8413-dbe4-5eaa-cda482aafeb0\" data-type=\"term\">messaging system interface</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position7",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "11677aef-6dff-10ad-5947-c035476b1908",
+        "z": 9,
+        "labelLayout": {
+          "labelBoxWidth": 90.61917114257812,
+          "fullString": "MESSAGING SYSTEM INTERFACE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MESSAGING",
+              "width": 74.99530029296875,
+              "x": 7.8119354248046875,
+              "y": 11.626614587402347
+            },
+            {
+              "text": "SYSTEM",
+              "width": 47.36065673828125,
+              "x": 21.629257202148438,
+              "y": 32.62665208740235
+            },
+            {
+              "text": "INTERFACE",
+              "width": 63.64256286621094,
+              "x": 13.488304138183594,
+              "y": 53.62668958740234
+            }
+          ],
+          "textWidth": 74.99530029296875,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "46e1bf3d-79db-1bd5-e01b-9cb17a5169ca",
+        "number": 14
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 805,
+          "y": 391
+        },
+        "target": {
+          "id": "f3f1bb5a-8243-4e37-a0b6-517b17b97096"
+        },
+        "id": "e2aecd96-98db-4776-98bd-8c1e2e549d5e",
+        "embeds": "",
+        "z": 10,
+        "routing": "curved",
+        "objectID": "a10be60e-d39f-3a8a-dbea-fd4f92515b25"
+      }
+    ]
+  }
+}
